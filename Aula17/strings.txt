@@ -1,0 +1,21 @@
+strtolower — Converte uma string para minúsculas.
+
+strtoupper — Converte uma string para maiúsculas.
+
+ucfirst — Converte para maiúscula o primeiro caractere de uma string.
+
+ucwords — Converte para maiúsculas o primeiro caractere de cada palavra.
+
+strrev — Reverte uma string.
+
+strpos — Encontra a posição da primeira ocorrência de uma string.
+
+stripos — Encontra a primeira ocorrencia de uma string sem diferenciar maiúsculas e minúsculas.
+
+substr_count — Conta o número de ocorrências de uma substring.
+
+substr — Retorna uma parte de uma string.
+
+str_pad — Preenche uma string para um certo tamanho com outra string.
+
+str_replace — Substitui todas as ocorrências da string de procura com a string de substituição.
